@@ -6,7 +6,8 @@ namespace our_dotnet_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Goodbye World!");
+            Console.WriteLine("This is how you merge a branch!");
         }
     }
 }

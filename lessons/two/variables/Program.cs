@@ -6,10 +6,19 @@ namespace variables
     {
         static void Main(string[] args)
         {
+            // Initialize variable practice.
             int cupsOfCoffee=0;
             string fullName="";
             DateTime today = DateTime.Today;
             Console.WriteLine($"Variables:\n\tcupsOfCoffee: {cupsOfCoffee}\n\tfullName: {fullName}\n\ttoday: {today}");
+            
+            // Adventure Mode name logic, and lets just guess and hope that we can throw a
+            // ternary into a print statement
+            Console.WriteLine(" Hello, what is your name: ");
+            fullName = Console.ReadLine();
+            Console.WriteLine(fullName == "Alice" ? "Hello Alice, you get a special greeting!" : String.Format($"Hello {fullName} you get a boring greeting."));
+            
+            // Explorer mode number handeling, etc.
             Console.WriteLine("Enter a number: ");
             double x = 0;
             double y = 0;

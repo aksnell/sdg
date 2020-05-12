@@ -1,0 +1,13 @@
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/bin/Debug/netcoreapp3.1/variables
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/bin/Debug/netcoreapp3.1/variables.deps.json
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/bin/Debug/netcoreapp3.1/variables.runtimeconfig.json
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/bin/Debug/netcoreapp3.1/variables.runtimeconfig.dev.json
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/bin/Debug/netcoreapp3.1/variables.dll
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/bin/Debug/netcoreapp3.1/variables.pdb
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/obj/Debug/netcoreapp3.1/variables.csprojAssemblyReference.cache
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/obj/Debug/netcoreapp3.1/variables.csproj.CoreCompileInputs.cache
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/obj/Debug/netcoreapp3.1/variables.AssemblyInfoInputs.cache
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/obj/Debug/netcoreapp3.1/variables.AssemblyInfo.cs
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/obj/Debug/netcoreapp3.1/variables.dll
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/obj/Debug/netcoreapp3.1/variables.pdb
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/two/variables/obj/Debug/netcoreapp3.1/variables.genruntimeconfig.cache

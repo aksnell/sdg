@@ -6,7 +6,9 @@ namespace DeckOfCards
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Dealer.Deck d = new Dealer.Deck();
+            d.Shuffle();
+            d.ShowTopX(2);
         }
     }
 }

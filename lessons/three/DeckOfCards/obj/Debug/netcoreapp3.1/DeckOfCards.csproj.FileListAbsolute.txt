@@ -1,0 +1,11 @@
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/three/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.csprojAssemblyReference.cache
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/three/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfoInputs.cache
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/three/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfo.cs
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/three/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/three/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.deps.json
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/three/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.json
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/three/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.dev.json
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/three/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.dll
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/three/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.pdb
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/three/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.dll
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/three/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.pdb

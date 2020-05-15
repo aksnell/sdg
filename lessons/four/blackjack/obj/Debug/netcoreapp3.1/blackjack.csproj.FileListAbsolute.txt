@@ -1,0 +1,11 @@
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/four/blackjack/obj/Debug/netcoreapp3.1/blackjack.csprojAssemblyReference.cache
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/four/blackjack/obj/Debug/netcoreapp3.1/blackjack.AssemblyInfoInputs.cache
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/four/blackjack/obj/Debug/netcoreapp3.1/blackjack.AssemblyInfo.cs
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/four/blackjack/bin/Debug/netcoreapp3.1/blackjack
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/four/blackjack/bin/Debug/netcoreapp3.1/blackjack.deps.json
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/four/blackjack/bin/Debug/netcoreapp3.1/blackjack.runtimeconfig.json
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/four/blackjack/bin/Debug/netcoreapp3.1/blackjack.runtimeconfig.dev.json
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/four/blackjack/bin/Debug/netcoreapp3.1/blackjack.dll
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/four/blackjack/bin/Debug/netcoreapp3.1/blackjack.pdb
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/four/blackjack/obj/Debug/netcoreapp3.1/blackjack.dll
+/home/aksnell/Projects/github.com/aksnell/sdg/lessons/four/blackjack/obj/Debug/netcoreapp3.1/blackjack.pdb

@@ -122,6 +122,7 @@ namespace blackjack {
             if (DealerGrip.GetHandValue() > 21) {
                 Console.WriteLine("The dealer busted! You win!");
                 Reset();
+                return;
             }
             if (DealerGrip.GetHandValue() > Players[0].Grip.GetHandValue()) {
                 Console.WriteLine("The dealer beat you!");
@@ -142,7 +143,8 @@ namespace blackjack {
             if (Console.ReadLine() == "YES") {
                     Play();
             } else {
-                Console.WriteLine("Goodbye!");   
+                Console.WriteLine("Goodbye!");
+                return;
             }
         }
     }
